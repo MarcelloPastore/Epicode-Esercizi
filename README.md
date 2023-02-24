@@ -1,3 +1,3 @@
 # Epicode-Esercizi
 Epicode/Esercizio01
-https://marcellopastore.github.io/Epicode-Esercizi/Esercizio01/index.html
+https://marcellopastore.github.io/Epicode-Esercizi/Esercizio1/index.html
